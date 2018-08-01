@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\projects\Stubbery" t="IncludeFlat">
+      <e p="appveyor.yml" t="Include" />
+      <e p="coverage.sh" t="Include" />
+      <e p="coveralls.sh" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="README.md" t="Include" />
+      <e p="Solution Items" t="Include" />
+      <e p="src" t="Include">
+        <e p="Stubbery" t="IncludeRecursive">
+          <e p="ApiHost.cs" t="Include" />
+          <e p="ApiStub.cs" t="Include" />
+          <e p="ApiStubRequestHandler.cs" t="Include" />
+          <e p="ApiStubState.cs" t="Include" />
+          <e p="ApiStubWebAppStartup.cs" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="DynamicValues.cs" t="Include" />
+          <e p="IApiStartup.cs" t="Include" />
+          <e p="IApiStubRequestHandler.cs" t="Include" />
+          <e p="ISetup.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="net451" t="Include">
+                <e p="Stubbery.AssemblyInfo.cs" t="Include" />
+              </e>
+              <e p="netstandard1.3" t="Include">
+                <e p="Stubbery.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="RequestArguments.cs" t="Include" />
+          <e p="RequestMatching" t="Include">
+            <e p="ConditionGroup.cs" t="Include" />
+            <e p="CreateStubResponse.cs" t="Include" />
+            <e p="IConditionSetup.cs" t="Include" />
+            <e p="IResultSetup.cs" t="Include" />
+            <e p="IRouteMatcher.cs" t="Include" />
+            <e p="IRouteValuesFeature.cs" t="Include" />
+            <e p="Preconditions" t="Include">
+              <e p="AcceptCondition.cs" t="Include" />
+              <e p="BodyCondition.cs" t="Include" />
+              <e p="ContentTypeCondition.cs" t="Include" />
+              <e p="HeaderCondition.cs" t="Include" />
+              <e p="IPrecondition.cs" t="Include" />
+              <e p="MethodCondition.cs" t="Include" />
+              <e p="RouteCondition.cs" t="Include" />
+            </e>
+            <e p="RouteMatcher.cs" t="Include" />
+            <e p="RoutingHttpContextExtensions.cs" t="Include" />
+            <e p="Setup.cs" t="Include" />
+            <e p="SetupResponseParameters.cs" t="Include" />
+          </e>
+          <e p="StreamExtensions.cs" t="Include" />
+          <e p="Stubbery.csproj" t="IncludeRecursive" />
+        </e>
+      </e>
+      <e p="Stubbery.sln" t="IncludeFlat" />
+      <e p="test" t="Include">
+        <e p="Stubbery.IntegrationTests" t="IncludeRecursive">
+          <e p="AcceptConditionTest.cs" t="Include" />
+          <e p="ApiHostTest.cs" t="Include" />
+          <e p="ArgumentsTest.cs" t="Include" />
+          <e p="BasicTest.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="BodyConditionTest.cs" t="Include" />
+          <e p="ComplexSetupTest.cs" t="Include" />
+          <e p="ContentTypeConditionTest.cs" t="Include" />
+          <e p="CustomConfigTest.cs" t="Include" />
+          <e p="DynamicValuesTest.cs" t="Include" />
+          <e p="HangingConnectionTest.cs" t="Include" />
+          <e p="HeaderConditionTest.cs" t="Include" />
+          <e p="MethodConditionTest.cs" t="Include" />
+          <e p="MultipleSetupsTest.cs" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="net451" t="Include">
+                <e p="win7-x64" t="Include">
+                  <e p="Stubbery.IntegrationTests.AssemblyInfo.cs" t="Include" />
+                  <e p="Stubbery.IntegrationTests.Program.cs" t="Include" />
+                </e>
+              </e>
+              <e p="netcoreapp1.0" t="Include">
+                <e p="Stubbery.IntegrationTests.AssemblyInfo.cs" t="Include" />
+                <e p="Stubbery.IntegrationTests.Program.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="RequestMatching" t="Include">
+            <e p="SetupTest.cs" t="Include" />
+          </e>
+          <e p="ResponseParametersTest.cs" t="Include" />
+          <e p="RouteConditionTest.cs" t="Include" />
+          <e p="RoutingHttpContextExtensionsTest.cs" t="Include" />
+          <e p="StateTest.cs" t="Include" />
+          <e p="StreamExtensionsTest.cs" t="Include" />
+          <e p="Stubbery.IntegrationTests.csproj" t="IncludeRecursive" />
+          <e p="XunitConfig.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+    <e p="C:\Users\408794\.nuget\packages\xunit.runner.visualstudio\2.2.0\build\_common\xunit.abstractions.dll" t="Include" />
+    <e p="C:\Users\408794\.nuget\packages\xunit.runner.visualstudio\2.2.0\build\_common\xunit.runner.reporters.net452.dll" t="Include" />
+    <e p="C:\Users\408794\.nuget\packages\xunit.runner.visualstudio\2.2.0\build\_common\xunit.runner.utility.net35.dll" t="Include" />
+    <e p="C:\Users\408794\.nuget\packages\xunit.runner.visualstudio\2.2.0\build\_common\xunit.runner.visualstudio.testadapter.dll" t="Include" />
+    <e p="C:\Users\408794\.nuget\packages\xunit.runner.visualstudio\2.2.0\build\netcoreapp1.0\xunit.runner.reporters.netstandard15.dll" t="Include" />
+    <e p="C:\Users\408794\.nuget\packages\xunit.runner.visualstudio\2.2.0\build\netcoreapp1.0\xunit.runner.utility.netstandard15.dll" t="Include" />
+    <e p="C:\Users\408794\.nuget\packages\xunit.runner.visualstudio\2.2.0\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\408794\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Stubbery.430000211.00" t="ExcludeRecursive" />
+  </component>
+</project>

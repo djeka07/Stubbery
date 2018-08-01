@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29396ee8-31d3-420d-a1a0-dfb9209c76ee" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/test/Stubbery.IntegrationTests/BodyConditionTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stubbery/RequestMatching/IConditionSetup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stubbery/RequestMatching/IConditionSetup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stubbery/RequestMatching/Setup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stubbery/RequestMatching/Setup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stubbery/Stubbery.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stubbery/Stubbery.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Stubbery.IntegrationTests/Stubbery.IntegrationTests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/test/Stubbery.IntegrationTests/Stubbery.IntegrationTests.csproj" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Setup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Setup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="134" column="106" selection-start-line="134" selection-start-column="77" selection-end-line="134" selection-end-column="106" />
+              <folding>
+                <marker date="1533126843640" expanded="false" signature="6:198" ph="..." />
+                <marker date="1533126843640" expanded="true" signature="234:4398" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="270:4396" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="533:1234" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="691:1052" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="1295:1454" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="1524:1629" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="1686:1859" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="1922:2059" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="2106:2244" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="2302:2429" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="2482:2615" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="2671:2794" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="2856:3279" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="2901:2997" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="3047:3193" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="3329:3426" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="3504:3603" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="3662:3796" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="3850:4236" ph="{...}" />
+                <marker date="1533126843640" expanded="true" signature="4306:4390" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enumerable.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03062.00/Source/NDP/fx/src/Core/System/Linq/Enumerable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="1305" column="65" selection-start-line="1305" selection-start-column="65" selection-end-line="1305" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContentTypeConditionTest.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Stubbery.IntegrationTests/ContentTypeConditionTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1700">
+              <caret line="105" column="84" selection-start-line="105" selection-start-column="84" selection-end-line="105" selection-end-column="84" />
+              <folding>
+                <marker date="1533123357454" expanded="false" signature="6:116" ph="..." />
+                <marker date="1533123357454" expanded="true" signature="153:4346" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="197:4344" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="366:806" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="420:796" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="896:1685" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="950:1675" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="1274:1379" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="1789:2633" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="1843:2623" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="2222:2327" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="2730:3425" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="2784:3415" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="3146:3251" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="3519:4338" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="3573:4328" ph="{...}" />
+                <marker date="1533123357454" expanded="true" signature="3927:4032" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BodyConditionTest.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Stubbery.IntegrationTests/BodyConditionTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+              <folding>
+                <marker date="1533128033452" expanded="true" signature="6:97" ph="..." />
+                <marker date="1533128033452" expanded="true" signature="134:2457" ph="{...}" />
+                <marker date="1533128033452" expanded="true" signature="171:2455" ph="{...}" />
+                <marker date="1533128033452" expanded="true" signature="328:867" ph="{...}" />
+                <marker date="1533128033452" expanded="true" signature="382:857" ph="{...}" />
+                <marker date="1533128033452" expanded="true" signature="953:1621" ph="{...}" />
+                <marker date="1533128033452" expanded="true" signature="1007:1611" ph="{...}" />
+                <marker date="1533128033452" expanded="true" signature="1718:2449" ph="{...}" />
+                <marker date="1533128033452" expanded="true" signature="1772:2439" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BodyCondition.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/BodyCondition.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding>
+                <marker date="1533132327641" expanded="true" signature="155:812" ph="{...}" />
+                <marker date="1533132327641" expanded="true" signature="204:810" ph="{...}" />
+                <marker date="1533132327641" expanded="true" signature="326:382" ph="{...}" />
+                <marker date="1533132327641" expanded="true" signature="430:804" ph="{...}" />
+                <marker date="1533132327641" expanded="true" signature="486:544" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeaderCondition.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/HeaderCondition.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1533123357420" expanded="false" signature="6:46" ph="..." />
+                <marker date="1533123357420" expanded="true" signature="96:485" ph="{...}" />
+                <marker date="1533123357420" expanded="true" signature="149:483" ph="{...}" />
+                <marker date="1533123357420" expanded="true" signature="294:354" ph="{...}" />
+                <marker date="1533123357420" expanded="true" signature="402:477" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContentTypeCondition.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/ContentTypeCondition.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="16" column="56" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="56" />
+              <folding>
+                <marker date="1533123357417" expanded="false" signature="6:46" ph="..." />
+                <marker date="1533123357417" expanded="true" signature="96:477" ph="{...}" />
+                <marker date="1533123357417" expanded="true" signature="154:475" ph="{...}" />
+                <marker date="1533123357417" expanded="true" signature="282:342" ph="{...}" />
+                <marker date="1533123357417" expanded="true" signature="390:469" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AcceptCondition.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/AcceptCondition.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+              <folding>
+                <marker date="1533123357415" expanded="false" signature="6:46" ph="..." />
+                <marker date="1533123357415" expanded="true" signature="96:641" ph="{...}" />
+                <marker date="1533123357415" expanded="true" signature="149:639" ph="{...}" />
+                <marker date="1533123357415" expanded="true" signature="272:332" ph="{...}" />
+                <marker date="1533123357415" expanded="true" signature="380:633" ph="{...}" />
+                <marker date="1533123357415" expanded="true" signature="454:512" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApiStubRequestHandler.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stubbery/ApiStubRequestHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+              <folding>
+                <marker date="1533123357383" expanded="false" signature="6:164" ph="..." />
+                <marker date="1533123357383" expanded="true" signature="184:1031" ph="{...}" />
+                <marker date="1533123357383" expanded="true" signature="252:1029" ph="{...}" />
+                <marker date="1533123357383" expanded="true" signature="401:481" ph="{...}" />
+                <marker date="1533123357383" expanded="true" signature="545:1023" ph="{...}" />
+                <marker date="1533123357383" expanded="true" signature="764:857" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BufferingHelper.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CCD2EC61-40B2-4F61-BE89-EDF1D4267D57/d9/827de542/BufferingHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>IConditionSetup</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/AcceptCondition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/ContentTypeCondition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/HeaderCondition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/BodyCondition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/ApiStubRequestHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/RequestArguments.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/IApiStubRequestHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/ApiStub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/IApiStartup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/ApiHost.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/Stubbery.IntegrationTests/BodyConditionTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/Stubbery.IntegrationTests/XunitConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/ApiStubWebAppStartup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/RoutingHttpContextExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/Stubbery.IntegrationTests/HeaderConditionTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/ISetup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/StreamExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/SetupResponseParameters.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/RouteMatcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CCD2EC61-40B2-4F61-BE89-EDF1D4267D57/d9/827de542/BufferingHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/IResultSetup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Setup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/Stubbery.IntegrationTests/ContentTypeConditionTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/IConditionSetup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/IPrecondition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/Stubbery.IntegrationTests/RequestMatching/SetupTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03062.00/Source/NDP/fx/src/Core/System/Linq/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/RouteCondition.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Stubbery/ISetup.cs" />
+        <option value="$PROJECT_DIR$/src/Stubbery/RequestMatching/Setup.cs" />
+        <option value="$PROJECT_DIR$/src/Stubbery/RequestMatching/IConditionSetup.cs" />
+        <option value="$PROJECT_DIR$/test/Stubbery.IntegrationTests/BodyConditionTest.cs" />
+        <option value="$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/BodyCondition.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="220" />
+    <option name="y" value="-11" />
+    <option name="width" value="1936" />
+    <option name="height" value="1097" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Stubbery (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Stubbery (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Solution Items" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Stubbery (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Stubbery (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Stubbery" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Stubbery (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Stubbery" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="RequestMatching" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Stubbery (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Stubbery" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="RequestMatching" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Preconditions" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Stubbery (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="test" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Stubbery (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="test" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Stubbery.IntegrationTests" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29396ee8-31d3-420d-a1a0-dfb9209c76ee" name="Default" comment="" />
+      <created>1533123785853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533123785853</updated>
+      <workItem from="1533123787468" duration="8392000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8392000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" visible="true" weight="0.32924107" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32924107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.32924107" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955357" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/test/Stubbery.IntegrationTests/BodyConditionTest.cs</url>
+          <line>37</line>
+          <properties documentPath="$PROJECT_DIR$/test/Stubbery.IntegrationTests/BodyConditionTest.cs" initialLine="37">
+            <startOffsets>
+              <startOffset value="1188" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1200" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/BodyCondition.cs</url>
+          <line>18</line>
+          <properties documentPath="$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/BodyCondition.cs" initialLine="17">
+            <startOffsets>
+              <startOffset value="453" />
+              <startOffset value="517" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="486" />
+              <endOffset value="524" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Unit Tests">
+        <watch expression="reader.Peek(" language="C#" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>reader.Peek(</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>reader.BaseStream.Seek(SeekOrigin.Begin, 0)</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>reader.ReadToEnd()</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/IApiStartup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1533123357393" expanded="false" signature="6:83" ph="..." />
+            <marker date="1533123357393" expanded="true" signature="103:265" ph="{...}" />
+            <marker date="1533123357393" expanded="true" signature="140:263" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/SetupResponseParameters.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1533123357436" expanded="false" signature="6:96" ph="..." />
+            <marker date="1533123357436" expanded="true" signature="132:1095" ph="{...}" />
+            <marker date="1533123357436" expanded="true" signature="177:1093" ph="{...}" />
+            <marker date="1533123357436" expanded="true" signature="495:1087" ph="{...}" />
+            <marker date="1533123357436" expanded="true" signature="608:709" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/RoutingHttpContextExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1533123357431" expanded="false" signature="6:82" ph="..." />
+            <marker date="1533123357431" expanded="true" signature="118:1141" ph="{...}" />
+            <marker date="1533123357431" expanded="true" signature="125:223" ph="/// Provides convenient extensions to access route arguments. ... " />
+            <marker date="1533123357431" expanded="true" signature="276:1139" ph="{...}" />
+            <marker date="1533123357431" expanded="true" signature="291:621" ph="/// Returns the route arguments extracted during matching a &lt;see cref=&quot;Stubbery.RequestMatching.Preconditions.Rou ... " />
+            <marker date="1533123357431" expanded="true" signature="709:1133" ph="{...}" />
+            <marker date="1533123357431" expanded="true" signature="756:854" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/RouteMatcher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <marker date="1533123357429" expanded="false" signature="6:211" ph="..." />
+            <marker date="1533123357429" expanded="true" signature="247:2043" ph="{...}" />
+            <marker date="1533123357429" expanded="true" signature="297:2041" ph="{...}" />
+            <marker date="1533123357429" expanded="true" signature="411:1600" ph="{...}" />
+            <marker date="1533123357429" expanded="true" signature="434:629" ph="/* The TemplateParser can only parse the route part, and not the query string. ... */" />
+            <marker date="1533123357429" expanded="true" signature="767:1202" ph="{...}" />
+            <marker date="1533123357429" expanded="true" signature="1119:1188" ph="{...}" />
+            <marker date="1533123357429" expanded="true" signature="1457:1516" ph="{...}" />
+            <marker date="1533123357429" expanded="true" signature="1533:1590" ph="{...}" />
+            <marker date="1533123357429" expanded="true" signature="1680:2035" ph="{...}" />
+            <marker date="1533123357429" expanded="true" signature="1809:1997" ph="{...}" />
+            <marker date="1533123357429" expanded="true" signature="1875:1983" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/ApiStub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="207" column="28" selection-start-line="207" selection-start-column="28" selection-end-line="207" selection-end-column="28" />
+          <folding>
+            <marker date="1533123357381" expanded="false" signature="6:102" ph="..." />
+            <marker date="1533123357381" expanded="true" signature="122:7788" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="129:432" ph="/// Represents an Api stub that responds to certain requests with preconfigured responses. ... " />
+            <marker date="1533123357381" expanded="true" signature="471:7786" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="737:1023" ph="/// Sets the Port for the stub to start /&gt; ... " />
+            <marker date="1533123357381" expanded="true" signature="1048:1459" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="1082:1140" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="1156:1449" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="1221:1404" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="1469:1772" ph="/// Creates a new instance of &lt;see cref=&quot;ApiStub&quot; /&gt; ... " />
+            <marker date="1533123357381" expanded="true" signature="1797:1962" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="1972:2315" ph="/// Gets the full url at which the stub is accessible. ... " />
+            <marker date="1533123357381" expanded="true" signature="2345:2680" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="2371:2670" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="2436:2623" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="2690:3062" ph="/// Starts the stub server and starts listening to requests. ... " />
+            <marker date="1533123357381" expanded="true" signature="3090:3368" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="3147:3264" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="3378:3592" ph="/// Stops the stub server. ... " />
+            <marker date="1533123357381" expanded="true" signature="3622:3713" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="3723:4101" ph="/// Sets up a new stubbed GET request on a specific route with a response. ... " />
+            <marker date="1533123357381" expanded="true" signature="4171:4304" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="4314:4500" ph="/// Sets up a new stubbed GET request. ... " />
+            <marker date="1533123357381" expanded="true" signature="4528:4592" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="4602:4981" ph="/// Sets up a new stubbed POST request on a specific route with a response. ... " />
+            <marker date="1533123357381" expanded="true" signature="5052:5186" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="5196:5383" ph="/// Sets up a new stubbed POST request. ... " />
+            <marker date="1533123357381" expanded="true" signature="5412:5477" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="5487:5865" ph="/// Sets up a new stubbed PUT request on a specific route with a response. ... " />
+            <marker date="1533123357381" expanded="true" signature="5935:6068" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="6078:6264" ph="/// Sets up a new stubbed PUT request. ... " />
+            <marker date="1533123357381" expanded="true" signature="6292:6356" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="6366:6747" ph="/// Sets up a new stubbed DELETE request on a specific route with a response. ... " />
+            <marker date="1533123357381" expanded="true" signature="6820:6956" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="6966:7155" ph="/// Sets up a new stubbed DELETE request. ... " />
+            <marker date="1533123357381" expanded="true" signature="7186:7253" ph="{...}" />
+            <marker date="1533123357381" expanded="true" signature="7263:7585" ph="/// Sets up a new stubbed request for the specified HTTP &lt;paramref name=&quot;methods&quot; /&gt;. ... " />
+            <marker date="1533123357381" expanded="true" signature="7644:7780" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/ApiHost.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+          <folding>
+            <marker date="1533123357380" expanded="false" signature="6:212" ph="..." />
+            <marker date="1533123357380" expanded="true" signature="232:1894" ph="{...}" />
+            <marker date="1533123357380" expanded="true" signature="261:1892" ph="{...}" />
+            <marker date="1533123357380" expanded="true" signature="444:628" ph="{...}" />
+            <marker date="1533123357380" expanded="true" signature="487:581" ph="{...}" />
+            <marker date="1533123357380" expanded="true" signature="675:1309" ph="{...}" />
+            <marker date="1533123357380" expanded="true" signature="1337:1636" ph="{...}" />
+            <marker date="1533123357380" expanded="true" signature="1384:1529" ph="{...}" />
+            <marker date="1533123357380" expanded="true" signature="1563:1626" ph="{...}" />
+            <marker date="1533123357380" expanded="true" signature="1675:1886" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/ApiStubWebAppStartup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding>
+            <marker date="1533123357387" expanded="false" signature="6:83" ph="..." />
+            <marker date="1533123357387" expanded="true" signature="103:716" ph="{...}" />
+            <marker date="1533123357387" expanded="true" signature="159:714" ph="{...}" />
+            <marker date="1533123357387" expanded="true" signature="319:403" ph="{...}" />
+            <marker date="1533123357387" expanded="true" signature="471:491" ph="{...}" />
+            <marker date="1533123357387" expanded="true" signature="547:708" ph="{...}" />
+            <marker date="1533123357387" expanded="true" signature="598:696" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/IApiStubRequestHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1533123357394" expanded="false" signature="6:62" ph="..." />
+            <marker date="1533123357394" expanded="true" signature="82:195" ph="{...}" />
+            <marker date="1533123357394" expanded="true" signature="130:193" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/RouteCondition.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <marker date="1533123357425" expanded="false" signature="6:68" ph="..." />
+            <marker date="1533123357425" expanded="true" signature="118:1055" ph="{...}" />
+            <marker date="1533123357425" expanded="true" signature="170:1053" ph="{...}" />
+            <marker date="1533123357425" expanded="true" signature="260:327" ph="{...}" />
+            <marker date="1533123357425" expanded="true" signature="375:758" ph="{...}" />
+            <marker date="1533123357425" expanded="true" signature="567:721" ph="{...}" />
+            <marker date="1533123357425" expanded="true" signature="822:1047" ph="{...}" />
+            <marker date="1533123357425" expanded="true" signature="966:1037" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/IPrecondition.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1533123357421" expanded="true" signature="82:176" ph="{...}" />
+            <marker date="1533123357421" expanded="true" signature="121:174" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/ISetup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1533123357396" expanded="true" signature="51:263" ph="{...}" />
+            <marker date="1533123357396" expanded="true" signature="58:189" ph="/// Represents a stubbed endpoint on which further conditions or result parameters can be set. ... " />
+            <marker date="1533123357396" expanded="true" signature="249:261" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/IResultSetup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <marker date="1533123357407" expanded="true" signature="69:2002" ph="{...}" />
+            <marker date="1533123357407" expanded="true" signature="76:185" ph="/// Represents the response arguments which can be customized for stubs. ... " />
+            <marker date="1533123357407" expanded="true" signature="219:2000" ph="{...}" />
+            <marker date="1533123357407" expanded="true" signature="234:751" ph="/// Sets up the response to be sent by the stubbed endpoint. ... " />
+            <marker date="1533123357407" expanded="true" signature="816:1111" ph="/// Sets the status code of the stub response. ... " />
+            <marker date="1533123357407" expanded="true" signature="1164:1562" ph="/// Sets a header to be added to the stub response. ... " />
+            <marker date="1533123357407" expanded="true" signature="1624:1923" ph="/// Sets the given headers to be added to the response. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestArguments.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1533123357398" expanded="true" signature="36:1642" ph="{...}" />
+            <marker date="1533123357398" expanded="true" signature="43:143" ph="/// Represents the most important arguments of an HTTP request. ... " />
+            <marker date="1533123357398" expanded="true" signature="177:1640" ph="{...}" />
+            <marker date="1533123357398" expanded="true" signature="192:743" ph="/// The route arguments. ... " />
+            <marker date="1533123357398" expanded="true" signature="791:1276" ph="/// The query string arguments. ... " />
+            <marker date="1533123357398" expanded="true" signature="1324:1409" ph="/// The stream of the HTTP request body. ... " />
+            <marker date="1533123357398" expanded="true" signature="1535:1634" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/IConditionSetup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+          <folding>
+            <marker date="1533126996309" expanded="false" signature="6:46" ph="..." />
+            <marker date="1533126996309" expanded="true" signature="82:4273" ph="{...}" />
+            <marker date="1533126996309" expanded="true" signature="89:194" ph="/// Represents the different preconditions that can be set on stubs. ... " />
+            <marker date="1533126996309" expanded="true" signature="231:4271" ph="{...}" />
+            <marker date="1533126996309" expanded="true" signature="246:650" ph="/// Sets up a condition so that the stub only responds if the request has the specified header. ... " />
+            <marker date="1533126996309" expanded="true" signature="714:1084" ph="/// Sets up a condition so that the stub only responds if the request headers satisfy the &lt;paramref name=&quot;check&quot;  ... " />
+            <marker date="1533126996309" expanded="true" signature="1157:1505" ph="/// Sets up a condition so that the stub only responds if the request has the specified Content-Type. ... " />
+            <marker date="1533126996309" expanded="true" signature="1565:1939" ph="/// Sets up a condition so that the stub only responds if the Content-Type satisfies the &lt;paramref name=&quot;check&quot; / ... " />
+            <marker date="1533126996309" expanded="true" signature="2005:2340" ph="/// Sets up a condition so that the stub only responds if the request has the Accept header. ... " />
+            <marker date="1533126996309" expanded="true" signature="2390:2763" ph="/// Sets up a condition so that the stub only responds if the Accept header satisfy the &lt;paramref name=&quot;check&quot; /&gt; ... " />
+            <marker date="1533126996309" expanded="true" signature="2824:3797" ph="/// Sets up a condition so that the stub only responds if the route of the request matches the &lt;paramref name=&quot;ro ... " />
+            <marker date="1533126996309" expanded="true" signature="3861:4216" ph="/// Sets up a condition so that the stub only responds if the Body satisfy the &lt;paramref name=&quot;check&quot; /&gt; conditio ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Stubbery.IntegrationTests/RequestMatching/SetupTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1533123357469" expanded="false" signature="6:96" ph="..." />
+            <marker date="1533123357469" expanded="true" signature="149:192" ph="{...}" />
+            <marker date="1533123357469" expanded="true" signature="178:190" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Stubbery.IntegrationTests/HeaderConditionTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1615">
+          <caret line="26" column="9" selection-start-line="15" selection-start-column="11" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <marker date="1533123357462" expanded="false" signature="6:97" ph="..." />
+            <marker date="1533123357462" expanded="true" signature="134:5975" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="173:5973" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="354:799" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="408:789" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="918:1569" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="972:1559" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="1674:2390" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="1728:2380" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="2503:3220" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="2557:3210" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="3331:4187" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="3385:4177" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="4304:5007" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="4358:4997" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="5125:5967" ph="{...}" />
+            <marker date="1533123357462" expanded="true" signature="5179:5957" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Stubbery.IntegrationTests/XunitConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/StreamExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <marker date="1533123357438" expanded="false" signature="6:60" ph="..." />
+            <marker date="1533123357438" expanded="true" signature="80:1483" ph="{...}" />
+            <marker date="1533123357438" expanded="true" signature="87:204" ph="/// Provides some convenience methods to use with &lt;see cref=&quot;Stream&quot; /&gt; objects. ... " />
+            <marker date="1533123357438" expanded="true" signature="245:1481" ph="{...}" />
+            <marker date="1533123357438" expanded="true" signature="260:536" ph="/// Reads the whole &lt;paramref name=&quot;stream&quot; /&gt; as a string asynchronously. ... " />
+            <marker date="1533123357438" expanded="true" signature="615:893" ph="{...}" />
+            <marker date="1533123357438" expanded="true" signature="657:750" ph="{...}" />
+            <marker date="1533123357438" expanded="true" signature="805:883" ph="{...}" />
+            <marker date="1533123357438" expanded="true" signature="903:1146" ph="/// Reads the whole &lt;paramref name=&quot;stream&quot; /&gt; as a string synchronously. ... " />
+            <marker date="1533123357438" expanded="true" signature="1208:1475" ph="{...}" />
+            <marker date="1533123357438" expanded="true" signature="1250:1343" ph="{...}" />
+            <marker date="1533123357438" expanded="true" signature="1398:1465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CCD2EC61-40B2-4F61-BE89-EDF1D4267D57/d9/827de542/BufferingHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Symbols/src/Source/03062.00/Source/NDP/fx/src/Core/System/Linq/Enumerable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="1305" column="65" selection-start-line="1305" selection-start-column="65" selection-end-line="1305" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Stubbery.IntegrationTests/BodyConditionTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <marker date="1533128033452" expanded="true" signature="6:97" ph="..." />
+            <marker date="1533128033452" expanded="true" signature="134:2457" ph="{...}" />
+            <marker date="1533128033452" expanded="true" signature="171:2455" ph="{...}" />
+            <marker date="1533128033452" expanded="true" signature="328:867" ph="{...}" />
+            <marker date="1533128033452" expanded="true" signature="382:857" ph="{...}" />
+            <marker date="1533128033452" expanded="true" signature="953:1621" ph="{...}" />
+            <marker date="1533128033452" expanded="true" signature="1007:1611" ph="{...}" />
+            <marker date="1533128033452" expanded="true" signature="1718:2449" ph="{...}" />
+            <marker date="1533128033452" expanded="true" signature="1772:2439" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Stubbery.IntegrationTests/ContentTypeConditionTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="105" column="84" selection-start-line="105" selection-start-column="84" selection-end-line="105" selection-end-column="84" />
+          <folding>
+            <marker date="1533123357454" expanded="false" signature="6:116" ph="..." />
+            <marker date="1533123357454" expanded="true" signature="153:4346" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="197:4344" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="366:806" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="420:796" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="896:1685" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="950:1675" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="1274:1379" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="1789:2633" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="1843:2623" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="2222:2327" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="2730:3425" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="2784:3415" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="3146:3251" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="3519:4338" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="3573:4328" ph="{...}" />
+            <marker date="1533123357454" expanded="true" signature="3927:4032" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Setup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="134" column="106" selection-start-line="134" selection-start-column="77" selection-end-line="134" selection-end-column="106" />
+          <folding>
+            <marker date="1533126843640" expanded="false" signature="6:198" ph="..." />
+            <marker date="1533126843640" expanded="true" signature="234:4398" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="270:4396" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="533:1234" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="691:1052" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="1295:1454" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="1524:1629" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="1686:1859" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="1922:2059" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="2106:2244" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="2302:2429" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="2482:2615" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="2671:2794" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="2856:3279" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="2901:2997" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="3047:3193" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="3329:3426" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="3504:3603" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="3662:3796" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="3850:4236" ph="{...}" />
+            <marker date="1533126843640" expanded="true" signature="4306:4390" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/ApiStubRequestHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+          <folding>
+            <marker date="1533123357383" expanded="false" signature="6:164" ph="..." />
+            <marker date="1533123357383" expanded="true" signature="184:1031" ph="{...}" />
+            <marker date="1533123357383" expanded="true" signature="252:1029" ph="{...}" />
+            <marker date="1533123357383" expanded="true" signature="401:481" ph="{...}" />
+            <marker date="1533123357383" expanded="true" signature="545:1023" ph="{...}" />
+            <marker date="1533123357383" expanded="true" signature="764:857" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/HeaderCondition.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1533123357420" expanded="false" signature="6:46" ph="..." />
+            <marker date="1533123357420" expanded="true" signature="96:485" ph="{...}" />
+            <marker date="1533123357420" expanded="true" signature="149:483" ph="{...}" />
+            <marker date="1533123357420" expanded="true" signature="294:354" ph="{...}" />
+            <marker date="1533123357420" expanded="true" signature="402:477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/ContentTypeCondition.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="56" />
+          <folding>
+            <marker date="1533123357417" expanded="false" signature="6:46" ph="..." />
+            <marker date="1533123357417" expanded="true" signature="96:477" ph="{...}" />
+            <marker date="1533123357417" expanded="true" signature="154:475" ph="{...}" />
+            <marker date="1533123357417" expanded="true" signature="282:342" ph="{...}" />
+            <marker date="1533123357417" expanded="true" signature="390:469" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/AcceptCondition.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <marker date="1533123357415" expanded="false" signature="6:46" ph="..." />
+            <marker date="1533123357415" expanded="true" signature="96:641" ph="{...}" />
+            <marker date="1533123357415" expanded="true" signature="149:639" ph="{...}" />
+            <marker date="1533123357415" expanded="true" signature="272:332" ph="{...}" />
+            <marker date="1533123357415" expanded="true" signature="380:633" ph="{...}" />
+            <marker date="1533123357415" expanded="true" signature="454:512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stubbery/RequestMatching/Preconditions/BodyCondition.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <marker date="1533132327641" expanded="true" signature="155:812" ph="{...}" />
+            <marker date="1533132327641" expanded="true" signature="204:810" ph="{...}" />
+            <marker date="1533132327641" expanded="true" signature="326:382" ph="{...}" />
+            <marker date="1533132327641" expanded="true" signature="430:804" ph="{...}" />
+            <marker date="1533132327641" expanded="true" signature="486:544" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
